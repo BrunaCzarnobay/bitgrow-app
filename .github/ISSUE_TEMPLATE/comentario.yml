@@ -1,0 +1,13 @@
+name: "💬 Comentário Geral"
+description: "Deixe um comentário, sugestão ou feedback sobre o BitGrow"
+title: "[COMENTÁRIO]: "
+labels: ["comentário"]
+body:
+  - type: textarea
+    id: comentario
+    attributes:
+      label: "Seu comentário"
+      description: "Compartilhe seus pensamentos, sugestões ou feedback sobre o BitGrow"
+      placeholder: "O que você achou do BitGrow? Tem alguma sugestão de melhoria?"
+    validations:
+      required: true
