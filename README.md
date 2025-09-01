@@ -10,6 +10,8 @@
 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow.svg)](https://github.com/BrunaCzarnobay/bitgrow-app)
 [![Bitcoin Creative](https://img.shields.io/badge/Bitcoin-Creative-purple.svg)](https://bitcoincreative.org/)
 
+![BitGrow Cover](Group%2048095775.png)
+
 ## 📋 Índice
 - [✨ Visão Geral](#-visão-geral)
 - [🎯 Objetivo](#-objetivo)
