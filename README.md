@@ -93,3 +93,50 @@ O BitGrow nasce da necessidade de educar as novas gerações sobre soberania fin
 --light-gray: #F5F5F5;         /* Fundos */
 --kids-blue: #2D7FF9;          /* Identidade Kids */
 --teen-green: #00BFA5;         /* Identidade Teen */
+
+bitgrow/
+├── 📱 src/
+│   ├── components/     # Componentes reutilizáveis
+│   ├── screens/        # Telas do aplicativo
+│   ├── utils/          # Utilitários e helpers
+│   └── storage/        # Gerenciamento de dados
+├── 📚 documentation/
+│   ├── BitGrow-Projeto-Detalhado.pdf
+│   ├── presentation.pdf
+│   └── assets/         # Imagens e diagramas
+├── 🎨 design/
+│   ├── figma-prototype.md
+│   ├── design-system.md
+│   └── screenshots/
+├── 📄 LICENSE.md
+└── 📖 README.md
+👨‍💻 Autoria
+Desenvolvido com ❤️ por [Seu Nome]
+
+📧 Email: brunamaraf1@
+
+🌐 LinkedIn: [[seu-linkedin](https://www.linkedin.com/in/bruna-czarnobay/)]
+
+🐦 Twitter: [@[seu-twitter](https://x.com/CzarnobayBruna)]
+
+Para o Bitcoin Creative - Primeiro programa de formação em design e criatividade para Bitcoin
+
+🤝 Como Contribuir
+Contribuições são bem-vindas! Siga estos passos:
+
+Faça um Fork do projeto
+
+Crie uma Branch para sua Feature (git checkout -b feature/AmazingFeature)
+
+Commit suas Mudanças (git commit -m 'Add some AmazingFeature')
+
+Push para a Branch (git push origin feature/AmazingFeature)
+
+Abra um Pull Request
+
+⭐ Se este projeto te ajudou, deixe uma estrela no repositório!
+
+<div align="center">
+💡 Educação bitcoinera para todas as idades
+
+</div> ```
