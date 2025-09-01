@@ -12,7 +12,8 @@
 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow.svg)](https://github.com/BrunaCzarnobay/bitgrow-app)
 [![Bitcoin Creative](https://img.shields.io/badge/Bitcoin-Creative-purple.svg)](https://bitcoincreative.org/)
 
-<img width="2037" height="1526" alt="Group 48095575" src="https://github.com/user-attachments/assets/6b03a7f7-0d03-4be1-b6a4-bb3f0ccf3d41" />
+<img width="2037" height="1526" alt="Group 48095575 (1)" src="https://github.com/user-attachments/assets/657fc664-23ef-482e-a512-f373ecd2ad29" />
+
 
 ## 📋 Índice
 - [✨ Visão Geral](#-visão-geral)
@@ -367,7 +368,7 @@ O Bitcoin Creative é uma iniciativa pioneira que busca:
 [![Status](https://img.shields.io/badge/Status-In_Development-yellow.svg)](https://github.com/BrunaCzarnobay/bitgrow-app)
 [![Bitcoin Creative](https://img.shields.io/badge/Bitcoin-Creative-purple.svg)](https://bitcoincreative.org/)
 
-<img width="2037" height="1526" alt="Group 48095575" src="https://github.com/user-attachments/assets/6b03a7f7-0d03-4be1-b6a4-bb3f0ccf3d41" />
+<img width="2037" height="1526" alt="Group 48095575 (1)" src="https://github.com/user-attachments/assets/657fc664-23ef-482e-a512-f373ecd2ad29" />
 
 
 ## 📋 Table of Contents
