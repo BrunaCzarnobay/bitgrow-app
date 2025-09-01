@@ -351,7 +351,18 @@ O Bitcoin Creative é uma iniciativa pioneira que busca:
 ⭐ Se este projeto te ajudou, deixe uma estrela no repositório!
 </div>
 
-[![Deixe um comentário](https://img.shields.io/badge/💬_Deixe_seu_comentário-Click_aqui-blue?style=for-the-badge)](https://github.com/SEU-USUARIO/bitgrow/issues/new?labels=comentário&template=comentario.yml)
+
+### 🗣️ Participe da Discussão
+
+<div align="center">
+
+[![Deixe um comentário](https://img.shields.io/badge/💬_Deixe_seu_comentário-Click_aqui-blue?style=for-the-badge)](https://github.com/BrunaCzarnobay/bitgrow/issues/new?labels=comentário&template=comentario.yml)
+
+*Sua opinião ajuda a melhorar o BitGrow para todas as famílias!*
+
+📌 **Dica:** Use para compartilhar ideias, sugestões ou feedback geral
+
+</div>
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 # English Version
