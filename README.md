@@ -223,15 +223,6 @@ bitgrow-app/
 ### ⚡ Integração Lightning
 O BitGrow utiliza Lightning Network para micro-recompensas instantâneas, transações com taxas insignificantes e experiência prática em tempo real.
 
-**Parcerias com LSPs**
-```yaml
-parceiros:
-  - name: Lightning Network+
-    services: [channel management, liquidity]
-  - name: Bitcoin Beach
-    services: [education, community]
-```
-
 **Segurança em Camadas**
 - ✅ Limites de valor por transação
 - ✅ Approvação parental obrigatória
@@ -587,15 +578,6 @@ bitgrow-app/
 ## 🌩️ Lightning Network
 ### ⚡ Lightning Integration
 BitGrow uses Lightning Network for instant micro-rewards, negligible fee transactions, and real-time practical experience.
-
-**LSP Partnerships**
-```yaml
-partners:
-  - name: Lightning Network+
-    services: [channel management, liquidity]
-  - name: Bitcoin Beach
-    services: [education, community]
-```
 
 **Layered Security**
 - ✅ Value limits per transaction
