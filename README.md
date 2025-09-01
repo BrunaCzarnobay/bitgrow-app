@@ -704,6 +704,6 @@ Bitcoin Creative is a pioneering initiative that aims to:
 
 
 <div align="center">
-**⭐ If this project helped you, leave a star on the repository!**
+⭐ If this project helped you, leave a star on the repository!
 </div>
 
