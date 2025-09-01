@@ -348,10 +348,11 @@ O Bitcoin Creative é uma iniciativa pioneira que busca:
 **🤝 Sim!** Este projeto é open source e aceitamos contribuições.
 
 <div align="center">
-**⭐ Se este projeto te ajudou, deixe uma estrela no repositório!**
+⭐ Se este projeto te ajudou, deixe uma estrela no repositório!
 </div>
 -------------------------------------------------------------------------------------------------------------------------------------------
-English Version
+
+# English Version
 
 # 🌱 BitGrow
 
