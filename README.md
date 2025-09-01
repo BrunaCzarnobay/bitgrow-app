@@ -2,7 +2,7 @@
 
 **Liberdade financeira em família, desde cedo**
 
-> Uma plataforma familiar que une educação bitcoinera gamificada com uma carteira Bitcoin não-custodial segura
+> Uma plataforma familiar que une educação bitcoiner gamificada com uma carteira Bitcoin não-custodial segura
 
 [![Figma](https://img.shields.io/badge/Figma-Design%20do%20Projeto-orange?style=for-the-badge&logo=figma)](https://www.figma.com/design/Wlb7taeCnmIeljf8uZUV5j/BitGrow?m=auto&t=jkYFzdzmDaxqle1Y-6)
 
