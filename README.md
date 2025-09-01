@@ -1,4 +1,3 @@
-```markdown
 # 🌱 BitGrow
 
 **Liberdade financeira em família, desde cedo**
@@ -85,7 +84,7 @@ framework: React Native
 linguagem: TypeScript
 estilização: Styled Components
 testes: Jest + React Testing Library
-```
+
 
 ### ⚡ Bitcoin & Lightning
 ```yaml
@@ -348,7 +347,6 @@ O Bitcoin Creative é uma iniciativa pioneira que busca:
 ### ❓ Posso contribuir com código?
 **🤝 Sim!** Este projeto é open source e aceitamos contribuições.
 
----
 
 <div align="center">
 **⭐ Se este projeto te ajudou, deixe uma estrela no repositório!**
