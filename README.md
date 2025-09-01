@@ -721,3 +721,16 @@ Bitcoin Creative is a pioneering initiative that aims to:
 ⭐ If this project helped you, leave a star on the repository!
 </div>
 
+
+### 🗣️ Join the Discussion
+
+<div align="center">
+
+[![Leave a comment](https://img.shields.io/badge/💬_Leave_your_comment-Click_here-blue?style=for-the-badge)](https://github.com/BrunaCzarnobay/bitgrow-app/issues/new?title=[COMMENT]&labels=comment)
+
+*Your feedback helps improve BitGrow for all families!*
+
+📌 **Tip:** Use this to share ideas, suggestions, or general feedback
+
+</div>
+
