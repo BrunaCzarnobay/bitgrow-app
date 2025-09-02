@@ -382,7 +382,7 @@ O Bitcoin Creative é uma iniciativa pioneira que busca:
 [![Status](https://img.shields.io/badge/Status-In_Development-yellow.svg)](https://github.com/BrunaCzarnobay/bitgrow-app)
 [![Bitcoin Creative](https://img.shields.io/badge/Bitcoin-Creative-purple.svg)](https://bitcoincreative.org/)
 
-<img width="2037" height="1526" alt="Group 48095575 (1)" src="https://github.com/user-attachments/assets/657fc664-23ef-482e-a512-f373ecd2ad29" />
+<img width="2037" height="1526" alt="Group 48095575 (4)" src="https://github.com/user-attachments/assets/a9b84124-fb42-4c6f-897c-7f39a71fa1c9" />
 
 
 ## 📋 Table of Contents
@@ -583,11 +583,11 @@ bitgrow-app/
 
 ## 📸 Screenshots
 <img width="2580" height="1580" alt="Backup - Instruções da Frase de Recuperação" src="https://github.com/user-attachments/assets/cf1cef23-71cd-4310-944a-d83aad67d740" />
-<img width="2580" height="1580" alt="Backup - Exibir Frase de Recuperação" src="https://github.com/user-attachments/assets/9649b743-014d-4520-ae51-94df624525fc" />
+<img width="2580" height="1580" alt="Backup - Exibir Frase de Recuperação (1)" src="https://github.com/user-attachments/assets/3d5e0461-a73c-432d-9873-b20104e4a05b" />
 <img width="2580" height="1580" alt="Backup - Alerta de Segurança" src="https://github.com/user-attachments/assets/3e330f8b-3ab1-4181-b55d-6fe79bf6bc31" />
 <img width="2580" height="1580" alt="Backup - Confirmar Frase de Recuperação" src="https://github.com/user-attachments/assets/fb532981-fd55-4b69-93ef-5a07412417a8" />
-<img width="2580" height="1580" alt="Home" src="https://github.com/user-attachments/assets/b07ca586-2cd0-47cd-8343-db79e72e7372" />
-<img width="2580" height="1580" alt="Ativos" src="https://github.com/user-attachments/assets/a730a5ca-1a73-44fb-a94e-27e93badbb35" />
+<img width="2580" height="1580" alt="Ativos (2)" src="https://github.com/user-attachments/assets/277da7e6-f071-4c68-ad63-6b1d84ecad4a" />
+
 
 
 ## 🌩️ Lightning Network
