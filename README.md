@@ -217,11 +217,7 @@ bitgrow-app/
 <img width="2580" height="1580" alt="Backup - Exibir Frase de Recuperação (1)" src="https://github.com/user-attachments/assets/3d5e0461-a73c-432d-9873-b20104e4a05b" />
 <img width="2580" height="1580" alt="Backup - Alerta de Segurança" src="https://github.com/user-attachments/assets/3e330f8b-3ab1-4181-b55d-6fe79bf6bc31" />
 <img width="2580" height="1580" alt="Backup - Confirmar Frase de Recuperação" src="https://github.com/user-attachments/assets/fb532981-fd55-4b69-93ef-5a07412417a8" />
-<img width="2580" height="1580" alt="Home" src="https://github.com/user-attachments/assets/b07ca586-2cd0-47cd-8343-db79e72e7372" />
-<img width="2580" height="1580" alt="Ativos" src="https://github.com/user-attachments/assets/a730a5ca-1a73-44fb-a94e-27e93badbb35" />
-
-
-
+<img width="2580" height="1580" alt="Ativos (2)" src="https://github.com/user-attachments/assets/277da7e6-f071-4c68-ad63-6b1d84ecad4a" />
 
 
 ## 🌩️ Lightning Network
