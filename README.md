@@ -13,7 +13,7 @@
 [![Bitcoin Creative](https://img.shields.io/badge/Bitcoin-Creative-purple.svg)](https://bitcoincreative.org/)
 
 
-<img width="2037" height="1526" alt="Group 48095575 (1)" src="https://github.com/user-attachments/assets/e1114920-46eb-4baa-bd2e-bd356be2e706" />
+<img width="2037" height="1526" alt="Group 48095575 (4)" src="https://github.com/user-attachments/assets/a9b84124-fb42-4c6f-897c-7f39a71fa1c9" />
 
 
 ## 📋 Índice
