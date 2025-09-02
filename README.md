@@ -12,7 +12,8 @@
 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow.svg)](https://github.com/BrunaCzarnobay/bitgrow-app)
 [![Bitcoin Creative](https://img.shields.io/badge/Bitcoin-Creative-purple.svg)](https://bitcoincreative.org/)
 
-<img width="2037" height="1526" alt="Group 48095575 (1)" src="https://github.com/user-attachments/assets/657fc664-23ef-482e-a512-f373ecd2ad29" />
+
+<img width="2037" height="1526" alt="Group 48095575 (1)" src="https://github.com/user-attachments/assets/e1114920-46eb-4baa-bd2e-bd356be2e706" />
 
 
 ## 📋 Índice
